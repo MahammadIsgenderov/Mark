@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\bin\Debug\net5.0\TAskHomeworkCOpyCodes.exe
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\bin\Debug\net5.0\TAskHomeworkCOpyCodes.deps.json
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\bin\Debug\net5.0\TAskHomeworkCOpyCodes.runtimeconfig.json
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\bin\Debug\net5.0\TAskHomeworkCOpyCodes.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\bin\Debug\net5.0\TAskHomeworkCOpyCodes.dll
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\bin\Debug\net5.0\TAskHomeworkCOpyCodes.pdb
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.AssemblyInfo.cs
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.dll
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\refint\TAskHomeworkCOpyCodes.dll
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.pdb
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\TAskHomeworkCOpyCodes.genruntimeconfig.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\TAskHomeworkCOpyCodes\TAskHomeworkCOpyCodes\obj\Debug\net5.0\ref\TAskHomeworkCOpyCodes.dll
